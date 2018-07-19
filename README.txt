@@ -1,8 +1,9 @@
-Kinect 控制器 for 游戏巫师3
-语言：python
+Kinect controller for witcher3
 
-运行环境：
+code in python
+Author: Li+*
 
-控制方式：
+runtime environment：
+python2.7 32bit
+windows10
 
-运行方式：
